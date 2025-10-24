@@ -1,5 +1,5 @@
 [project]
-name = "himpunan-mathematical-sets"
+name = "himpunan-discrete-sets-afl2"
 version = "0.1.1"
 description = "A package for set operations including union, intersection, difference, and symmetric difference."
 readme = "README.md"

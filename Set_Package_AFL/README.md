@@ -1,15 +1,22 @@
 # Set_Function
 
-![PyPI version](https://img.shields.io/pypi/v/himpunan-mathematical-sets.svg)
+![TestPyPI version](https://img.shields.io/badge/TestPyPI-0.1.1-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![PyPI downloads](https://img.shields.io/pypi/dm/himpunan-mathematical-sets.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 A comprehensive Python package for mathematical set operations including union, intersection, difference, symmetric difference, complement, cartesian product, and power set operations.
 
-* PyPI package: https://pypi.org/project/himpunan-mathematical-sets/
-* GitHub Repository: https://github.com/1nnocentia/set_function
-* Free software: MIT License
+* **TestPyPI package**: https://test.pypi.org/project/himpunan-discrete-sets-afl2/
+* **GitHub Repository**: https://github.com/1nnocentia/group6_afl2_setfunc
+* **Free software**: MIT License
+
+## Installation
+
+### From TestPyPI (Current)
+```bash
+pip install -i https://test.pypi.org/simple/ himpunan-discrete-sets-afl2
+```
 
 ## Features
 
@@ -20,12 +27,6 @@ A comprehensive Python package for mathematical set operations including union, 
 * **Intuitive Syntax**: Uses Python operators for natural mathematical notation
 * **Type Safety**: Built-in type checking and error handling
 * **Comprehensive Testing**: Full test suite with 100% coverage
-
-## Installation
-
-```bash
-pip install himpunan-mathematical-sets
-```
 
 ## Quick Start
 
