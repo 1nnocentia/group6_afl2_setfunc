@@ -8,15 +8,15 @@ A comprehensive Python package for mathematical set operations including union, 
 
 ## Links
 
-* **TestPyPI Package**: https://test.pypi.org/project/himpunan-discrete-sets-afl2/
+* **PyPI Package**: https://pypi.org/project/himpunan-discrete-sets-afl2/
 * **GitHub Repository**: https://github.com/1nnocentia/group6_afl2_setfunc
 * **Documentation**: Available in this README
 
 ## Installation
 
-### From TestPyPI (Current)
+### From PyPI (Production)
 ```bash
-pip install -i https://test.pypi.org/simple/ himpunan-discrete-sets-afl2
+pip install himpunan-discrete-sets-afl2
 ```
 
 ## Features
