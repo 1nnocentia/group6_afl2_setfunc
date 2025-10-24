@@ -1,10 +1,5 @@
 # Set_Function
 
-![PyPI version](https://img.shields.io/pypi/v/himpunan-mathematical-sets.svg)
-![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![PyPI downloads](https://img.shields.io/pypi/dm/himpunan-mathematical-sets.svg)
-
 A comprehensive Python package for mathematical set operations including union, intersection, difference, symmetric difference, complement, cartesian product, and power set operations.
 
 * PyPI package: https://pypi.org/project/himpunan-mathematical-sets/
