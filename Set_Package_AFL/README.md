@@ -1,15 +1,16 @@
 # Set_Function
 
-![TestPyPI version](https://img.shields.io/badge/TestPyPI-0.1.1-blue.svg)
-![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-
 A comprehensive Python package for mathematical set operations including union, intersection, difference, symmetric difference, complement, cartesian product, and power set operations.
 
-* **TestPyPI package**: https://test.pypi.org/project/himpunan-discrete-sets-afl2/
+**Requirements:** Python 3.10+  
+**License:** MIT License  
+**Version:** 0.1.1
+
+## Links
+
+* **TestPyPI Package**: https://test.pypi.org/project/himpunan-discrete-sets-afl2/
 * **GitHub Repository**: https://github.com/1nnocentia/group6_afl2_setfunc
-* **Free software**: MIT License
+* **Documentation**: Available in this README
 
 ## Installation
 
